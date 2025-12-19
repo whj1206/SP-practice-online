@@ -1,0 +1,33 @@
+{
+  "github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+
+  "editor.inlineSuggest.enabled": false,
+  "editor.quickSuggestions": {
+    "comments": "off",
+    "strings": "off",
+    "other": "off"
+},
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.screenReaderAnnounceInlineSuggestion": false,
+
+  "editor.autoClosingBrackets": "never",
+
+  "[html]": {
+    "editor.autoCloseTags": "never",
+    "html.autoClosingTags": false,
+    "emmet.triggerExpansionOnTab": false,
+    "emmet.showExpandedAbbreviation": "never"
+  },
+
+  "terminal.integrated.suggest.inlineSuggestion": "off",
+  "terminal.integrated.suggest.quickSuggestions": {
+    "commands": "off",
+    "arguments": "off",
+    "unknown": "off"
+  }
+}
