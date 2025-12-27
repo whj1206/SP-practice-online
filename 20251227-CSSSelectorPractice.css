@@ -1,0 +1,11 @@
+body{background-color: #cccccc}
+.style-title{color: rgb(139, 162, 7); text-decoration: underline}
+#block-color{color: #666666}
+#content1{
+    display: none;
+    color: blue
+}
+#content2{
+    border: 1px solid red;
+    color: blue
+}
